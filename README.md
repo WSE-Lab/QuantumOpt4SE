@@ -4,5 +4,5 @@ This is the artifact of our submission, titled "Quantum Optimization for Softwar
 
 During the SLR, we have our raw data available:
 
-+ `initial_searching.csv`: All the raw data for initial keyword searching is included in this file. We presented the details of the 2083 primary papers after removing duplicates across databases.
-+ `final_selection.csv`:  The file saves the results for 77 primary papers in the final list. All the included papers derive from keyword searching and snowballing. The presented data encompass all the results displayed in our manuscript in response to the proposed research questions.
++ [`initial_searching.csv`](data/initial_searching.csv): All the raw data for initial keyword searching is included in this file. We presented the details of the 2083 primary papers after removing duplicates across databases.
++ [`final_selection.csv`](data/final_selection.csv):  The file saves the results for 77 primary papers in the final list. All the papers included were derived from keyword searching and snowballing. The presented data encompass all the results displayed in our manuscript in response to the proposed research questions.
