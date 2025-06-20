@@ -1,6 +1,6 @@
 # Quantum Optimization for Software Engineering: A Survey
 
-This is the artifact of our submission, titled "Quantum Optimization for Software Engineering: A Survey"， which is a systematic literature review (SLR) of applying quantum and quantum-inspired optimization techniques to solve software engineering problems relevant to optimization.
+This is the artifact of our submission, titled "Quantum Optimization for Software Engineering: A Survey", which is a systematic literature review (SLR) of applying quantum and quantum-inspired optimization techniques to solve software engineering problems relevant to optimization.
 
 During the SLR, we have our raw data available:
 
